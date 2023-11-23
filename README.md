@@ -2,7 +2,7 @@
 
 Just run the following command in powershell:
 ```
-command-line
+iwr https://raw.githubusercontent.com/UserName-None/Fix-Windows-Managed-by-Organisation/main/script.ps1 | iex
 ```
 
 # What this is
